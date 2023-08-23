@@ -38,6 +38,8 @@ node index.js
 
 to begin the CLI application. They are then prompted to enter up to 3 characters for their logo, a color for the text, a shape for the logo, and a color for the shape. The command line will then indicate that a logo.svg file has been generated. The user can then find the file in the "output" folder in the main directory of the application.
 
+Follow [this](https://drive.google.com/file/d/14yT6ro6gGHXtcFEqVnRnTQ0B_6Et8_IZ/view) link for a walkthrough video on how to use the application.
+
 ## License
 
 N/A
